@@ -7,6 +7,11 @@ Hi, I’m Meshach Pierre
 - Programming language: R (proficient), Python (basic)
 - Software: R, QGIS
 
+Contact information:
+- Address: 408 NW 4th St, Gainesville, FL, USA, 32601
+- Email: mpierre2@ufl.edu / meshachpierre@gmail.com
+- Phone: +5926414308 / +13523282116
+
 I am from Georgetown, Guyana, and have worked in both Guyana and Suriname, conducting field research on birds, mammals, and most recently, human-wildlife conflict. I mainly work in Region 9, Guyana, also called the Rupununi Region. My interests have grown and evolved over time and my major focus now is human-wildlife interactions, especially human-wildlife coexistence and conflict. I hope my work can be used to inform both national policy, and local community approaches to living alongside sometimes dangerous wildlife. 
 
 For more details on my experience, interests, and skills, please see my [CV](Meshach%20Pierre_Curriculum%20Vitae_20210429.pdf).
