@@ -4,7 +4,7 @@ Hi, I’m Meshach Pierre
 - University of Guyana BSc in Biology (General Option) alumnus (2010-2014)
 - Advisors: [Dr. Jessica S. Kahler](https://soccrim.clas.ufl.edu/jessica-kahler/) and [Dr. Matthew T. Hallett](https://uftcd.org/people/core-faculty-staff/matthew-t-hallett/)
 - Interests: Conservation criminology, Human dimensions of wildlife conservation, Indigenous natural resources management, Ecology and conservation of birds and mammals,	Scientific communication and outreach, Environmental sociology,	Sustainable development
-- Programming language: R (proficient), Python (basic)
+- Programming language: R (proficient), Python (basic), Stata (basic)
 - Software: R, QGIS
 
 Contact information:
