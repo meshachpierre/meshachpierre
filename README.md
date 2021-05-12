@@ -8,7 +8,8 @@ Hi, I’m Meshach Pierre
 - Software: R, QGIS
 
 Contact information:
-- Address: 408 NW 4th St, Gainesville, FL, USA, 32601
+- US Address: 408 NW 4th St, Gainesville, FL, USA, 32601
+- Permanent Guyanese Address: 60 Atlantic Ville, Georgetown, Guyana, South America
 - Email: mpierre2@ufl.edu / meshachpierre@gmail.com
 - Phone: +5926414308 / +13523282116
 
