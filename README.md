@@ -1,6 +1,6 @@
 Hi, I’m Meshach Pierre
 - MA student in Criminology, Law, and Society, University of Florida (2021-present)
-- PGDip in International Wildlife Conservation Practice, University of Oxford/WildCRU alumnus (2018)
+- PGDip in International Wildlife Conservation Practice, University of Oxford/[WildCRU alumnus](https://www.wildcru.org/members/meshach-pierre/) (2018)
 - BSc in Biology (General Option), University of Guyana alumnus (2010-2014)
 - Advisors: [Dr. Jessica S. Kahler](https://soccrim.clas.ufl.edu/jessica-kahler/) and [Dr. Matthew T. Hallett](https://uftcd.org/people/core-faculty-staff/matthew-t-hallett/)
 - Interests: Conservation criminology, Human dimensions of wildlife conservation, Indigenous natural resources management, Ecology and conservation of birds and mammals,	Scientific communication and outreach, Environmental sociology,	Sustainable development
