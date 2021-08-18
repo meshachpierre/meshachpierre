@@ -15,7 +15,7 @@ Contact information:
 
 I am from Georgetown, Guyana, and have worked in both Guyana and Suriname, conducting field research on birds, mammals, and most recently, human-wildlife conflict. I mainly work in Region 9, Guyana, also called the Rupununi Region. My interests have grown and evolved over time and my major focus now is human-wildlife interactions, especially human-wildlife coexistence and conflict. I hope my work can be used to inform both national policy, and local community approaches to living alongside sometimes dangerous wildlife. 
 
-For more details on my experience, interests, and skills, please see my [CV](meshachpierre_curriculumvitae_20210607.pdf).
+For more details on my experience, interests, and skills, please see my [CV](meshachpierre_cv_20210818.pdf).
 
 My current research focuses on human-wild cat conflict in the Rupununi region of Southern Guyana. I am using a conservation criminology approach to this issue. I aim to understand risk perceptions, risk beliefs, and attitudes surrounding wild cats and livestock, motivations for compliance and non-compliance with environmental rules and laws, and guardianship intention regarding wild cats and livestock. This research project falls under the larger [Sustainable Wildlife Management Project, Guyana](https://www.swm-programme.info/country-guyana).
 
