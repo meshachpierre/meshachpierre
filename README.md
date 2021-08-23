@@ -17,7 +17,7 @@ I am from Georgetown, Guyana, and have worked in both Guyana and Suriname, condu
 
 For more details on my experience, interests, and skills, please see my [CV](meshachpierre_cv_20210823.pdf).
 
-My current research focuses on human-wild cat conflict in the Rupununi region of Southern Guyana. I am using a conservation criminology approach to this issue. I aim to understand risk perceptions, risk beliefs, and attitudes surrounding wild cats and livestock, motivations for compliance and non-compliance with environmental rules and laws, and guardianship intention regarding wild cats and livestock. This research project falls under the larger [Sustainable Wildlife Management Project, Guyana](https://www.swm-programme.info/country-guyana).
+My current research focuses on human-wild cat conflict in the Rupununi region of Southern Guyana. I am using a conservation criminology approach to this issue. I aim to understand risk perceptions, risk beliefs, and attitudes surrounding jaguars and livestock, tolerance for jaguar populations, and guardianship intention regarding wild cats and livestock. This research project falls under the larger [Sustainable Wildlife Management Project, Guyana](https://www.swm-programme.info/country-guyana).
 
 I am always open to collaborate and happy to talk about working in Guyana. I am fairly well connected (it helps that Guyana is small) so I would be happy to connect anyone with the wider conservation biology field in Guyana. 
 
